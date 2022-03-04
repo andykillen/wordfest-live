@@ -1,0 +1,16 @@
+{
+    "name": "wordfest",
+    "version": "1.0.0",
+    "description": "Glup setup",
+    "dependencies": {
+        "gulp": "*",
+        "gulp-cli": "*",
+        "gulp-csso": "^4.0.1",
+        "gulp-rename": "*",
+        "gulp-sourcemaps": "*",
+        "gulp-uglify": "*"
+    },
+    "browserslist": [
+        "> 5%"        
+    ]
+}

@@ -1,0 +1,11 @@
+{
+	"name": "andykillen/wordfest-live",
+	"type": "wordpress-plugin",
+	"minimum-stability": "dev",
+	"description": "Creates a autoloader for wordfest-live",
+	"autoload": {
+		"psr-4": {
+			"WFlive\\": "src/"
+		}
+	}
+}
